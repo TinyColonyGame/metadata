@@ -1,0 +1,33 @@
+{
+    "name": "Tiny Colony",
+    "symbol": "TINY",
+    "description": "Utility token of Tiny Colony meta-verse",
+    "seller_fee_basis_points": 0,
+    "image": "https://raw.githubusercontent.com/TinyColonyGame/metadata/assets/logo.png",
+    "external_url": "http://tinycolony.io/",
+    "attributes": [
+        {
+            "trait_type": "website",
+            "value": "http://tinycolony.io/"
+        },
+        {
+            "trait_type": "web",
+            "value": "yes"
+        },
+        {
+            "trait_type": "mobile",
+            "value": "yes"
+        },
+        {
+            "trait_type": "extension",
+            "value": "yes"
+        }
+    ],
+    "collection": {
+        "name": "Tiny Colony TINY Tokens",
+        "family": "Tiny Colony"
+    },
+    "properties": {
+        "category": "utility"
+    }
+}
