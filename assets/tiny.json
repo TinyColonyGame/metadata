@@ -23,10 +23,6 @@
             "value": "yes"
         }
     ],
-    "collection": {
-        "name": "Tiny Colony TINY Tokens",
-        "family": "Tiny Colony"
-    },
     "properties": {
         "category": "utility"
     }
